@@ -1,5 +1,5 @@
 # roundrobin-scheduler
-Simulated round robin process scheduler
+Simulated round robin process scheduler written in Java
 
 ## Goal
 Building a round robin preemptive scheduler to organize the work of processes in a computing system.
